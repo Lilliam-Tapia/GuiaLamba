@@ -1,0 +1,7 @@
+C:\Users\LENOVO\Desktop\tareadecursoprogramacion1c#\GuiaLamba\GuiaLamba\bin\Debug\GuiaLamba.exe.config
+C:\Users\LENOVO\Desktop\tareadecursoprogramacion1c#\GuiaLamba\GuiaLamba\bin\Debug\GuiaLamba.exe
+C:\Users\LENOVO\Desktop\tareadecursoprogramacion1c#\GuiaLamba\GuiaLamba\bin\Debug\GuiaLamba.pdb
+C:\Users\LENOVO\Desktop\tareadecursoprogramacion1c#\GuiaLamba\GuiaLamba\obj\Debug\GuiaLamba.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\tareadecursoprogramacion1c#\GuiaLamba\GuiaLamba\obj\Debug\GuiaLamba.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\tareadecursoprogramacion1c#\GuiaLamba\GuiaLamba\obj\Debug\GuiaLamba.exe
+C:\Users\LENOVO\Desktop\tareadecursoprogramacion1c#\GuiaLamba\GuiaLamba\obj\Debug\GuiaLamba.pdb
