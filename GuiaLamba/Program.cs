@@ -15,7 +15,7 @@ namespace GuiaLamba
             new Estudiantes("Juan", 19, 85),
             new Estudiantes("Ana", 18, 73),
             new Estudiantes("José", 21, 89),
-            new Estudiantes("Rosa", 17, 70.5)
+            new Estudiantes("Rosa", 17, 70)
             };
 
             // Filtrar los estudiantes cuya edad es mayor a 18 años.
@@ -44,7 +44,9 @@ namespace GuiaLamba
             }
             Console.WriteLine();
 
+            double promedioNotas = listest.Average(e => e.Nota);
 
+            Console.WriteLine($"Promedio de notas de los estudiantes:{promedioNotas}");
         }
     }
 }
